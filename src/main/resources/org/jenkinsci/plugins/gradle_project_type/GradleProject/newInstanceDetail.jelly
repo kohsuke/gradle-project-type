@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+  This is a prototype Gradle integration project type.
+</div>
