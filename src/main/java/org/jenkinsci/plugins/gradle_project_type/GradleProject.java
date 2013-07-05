@@ -41,6 +41,7 @@ public class GradleProject extends AbstractProject<GradleProject,GradleBuild> im
     @Override
     protected void buildDependencyGraph(DependencyGraph graph) {
         // nothing to contribute to the dependency graph
+
     }
 
     public DescriptorImpl getDescriptor() {
